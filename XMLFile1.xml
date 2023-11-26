@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MaterialsDataBase>
+	<Material
+		AuthorName = "Кондратюк С.С."
+		Name = "Моделювання та розпізнавання жестів української дактильної абетки за допомогою кросплатформених технологій"
+		Faculty = "ФКНК"
+		Department = "Теоретична кібернетика"
+		Type = "Дисертація"
+		Volume = "210"
+		CreationDate = "2021">
+	</Material>
+
+	<Material
+		AuthorName = "Анікушин А.В."
+		Name = "Чисельні методи оптимізації та моделювання процесів, що описуються лінійними інтегро-диференціальними рівняннями"
+		Faculty = "ФКНК"
+		Department = "Обчислювальна математика"
+		Type = "Дисертація"
+		Volume = "235"
+		CreationDate = "2011">
+	</Material>
+
+	<Material
+		AuthorName = "Анісімов А.В"
+		Name = "Системи штучного інтелекту"
+		Faculty = "ФКНК"
+		Department = "Математична інформатика"
+		Type = "Навчальний посібник"
+		Volume = "99"
+		CreationDate = "2000">
+	</Material>
+
+	<Material
+		AuthorName = "Анісімов А.В"
+		Name = "Програмування числових методів мовою Python"
+		Faculty = "ФКНК"
+		Department = "Математична інформатика"
+		Type = "Навчальний посібник"
+		Volume = "315"
+		CreationDate = "2015">
+	</Material>
+
+	<Material
+		AuthorName = "Карнаух Т.О"
+		Name = "Дискретна математика: комбінаторні методи"
+		Faculty = "ФКНК"
+		Department = "Теоретична кібернетика"
+		Type = "Навчальний посібник"
+		Volume = "50"
+		CreationDate = "2023">
+	</Material>
+
+	<Material
+		AuthorName = "Омельчук Л.Л."
+		Name = "Програмування: теорія та практика. Збірник матеріалів за результатами ІТ-проєкту міждисциплінарної інтеграції"
+		Faculty = "ФКНК"
+		Department = "Теорії та технології програмування"
+		Type = "Монографія"
+		Volume = "161"
+		CreationDate = "2021">
+	</Material>
+
+	<Material
+		AuthorName = "Омельчук Л.Л."
+		Name = "Методичні рекомендації до виконання та оформлення курсових робіт"
+		Faculty = "ФКНК"
+		Department = "Теорії та технології програмування"
+		Type = "Методичні рекомендації"
+		Volume = "32"
+		CreationDate = "2011">
+	</Material>
+
+	<Material
+		AuthorName = "Волохов В.М."
+		Name = "Методичні рекомендації до лабораторного практикуму побудови мовних процесорів з дисципліни «Системне програмування»"
+		Faculty = "ФКНК"
+		Department = "Теорії та технології програмування"
+		Type = "Методичні рекомендації"
+		Volume = "53"
+		CreationDate = "2013">
+	</Material>
+</MaterialsDataBase>
